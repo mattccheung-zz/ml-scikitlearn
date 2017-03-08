@@ -1,6 +1,8 @@
 # Machine Learning w/ Python Scikit-Learn
-## Setup
+## Setup & Usage
+This project is written in Python 2.7
 `$ pip install -r requirements.txt`
+`$ python ml-linear-reg.py`
 
 ## Project
 Predicting the stock price of AAPL using basic ML (linear regression), forecasting out 2% from available data. 
