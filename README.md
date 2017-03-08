@@ -1,7 +1,9 @@
 # Machine Learning w/ Python Scikit-Learn
 ## Setup & Usage
 This project is written in Python 2.7
+
 `$ pip install -r requirements.txt`
+
 `$ python ml-linear-reg.py`
 
 ## Project
